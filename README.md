@@ -5,6 +5,6 @@ This is a portfolio project from Matheus Ernesto Dos Santos, then this project c
 
 This project is looking for small stores and people who needs a free and open-source cash system.
 
-Project made with Visual Studio 2022 Community, using C# Windows Forms.
+Project made with Visual Studio 2022 Community, using Java.
 
 If you want only the executable, check the **binaries** folder.
